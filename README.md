@@ -1,2 +1,2 @@
-# ProjectOne
-Learning Unity and building a simple game.
+# Retro Flyer
+Learning Unity and building a mobile SHMUP game.
